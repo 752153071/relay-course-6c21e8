@@ -8,10 +8,12 @@
   "files": [
     {
       "name": "重庆愉快办刷课软件.exe",
+      "asset": "main.exe",
       "sha256": "2750e1744adf56104c1ae1d3882da4fc43e1dbb3a00b20e725fff984197706a5"
     },
     {
       "name": "手动渝快办登录.exe",
+      "asset": "helper.exe",
       "sha256": "4ea2cef8bc9600bf868478e852764ac2c31a24e2d2c4767fd15d428545e7f219"
     }
   ]
