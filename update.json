@@ -1,16 +1,16 @@
 {
-  "version": "2026.10.12.2",
-  "notes": "软件界面一键更新版",
+  "version": "2026.10.12.3",
+  "notes": "一键更新按钮位置调整版",
   "main_name_b64": "6YeN5bqG5oSJ5b+r5Yqe5Yi36K++6L2v5Lu2LmV4ZQ==",
   "base_urls": [
-    "https://gh-proxy.com/https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.2/",
-    "https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.2/"
+    "https://gh-proxy.com/https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.3/",
+    "https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.3/"
   ],
   "files": [
     {
       "asset": "main.exe",
       "target_b64": "6YeN5bqG5oSJ5b+r5Yqe5Yi36K++6L2v5Lu2LmV4ZQ==",
-      "sha256": "3a8c7746488ca0ce9915233199d6fb30290eccaea091e2b2985873acc5f59cfa"
+      "sha256": "75c8a07b4e0bdda50d628e89423bcaf8a1ee3db34fe465eba5fcf1b425108c7e"
     },
     {
       "asset": "helper.exe",
