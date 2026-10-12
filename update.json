@@ -1,0 +1,18 @@
+{
+  "version": "2026.10.12.0",
+  "notes": "新版刷课软件登录优化版",
+  "base_urls": [
+    "https://gh-proxy.com/https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.0/",
+    "https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.0/"
+  ],
+  "files": [
+    {
+      "name": "重庆愉快办刷课软件.exe",
+      "sha256": "2750e1744adf56104c1ae1d3882da4fc43e1dbb3a00b20e725fff984197706a5"
+    },
+    {
+      "name": "手动渝快办登录.exe",
+      "sha256": "4ea2cef8bc9600bf868478e852764ac2c31a24e2d2c4767fd15d428545e7f219"
+    }
+  ]
+}
