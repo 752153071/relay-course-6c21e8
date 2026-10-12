@@ -1,16 +1,16 @@
 {
-  "version": "2026.10.12.0",
-  "notes": "新版刷课软件登录优化版",
+  "version": "2026.10.12.1",
+  "notes": "账号密码与渝快办登录修复版",
   "main_name_b64": "6YeN5bqG5oSJ5b+r5Yqe5Yi36K++6L2v5Lu2LmV4ZQ==",
   "base_urls": [
-    "https://gh-proxy.com/https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.0/",
-    "https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.0/"
+    "https://gh-proxy.com/https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.1/",
+    "https://github.com/752153071/relay-course-6c21e8/releases/download/v2026.10.12.1/"
   ],
   "files": [
     {
       "asset": "main.exe",
       "target_b64": "6YeN5bqG5oSJ5b+r5Yqe5Yi36K++6L2v5Lu2LmV4ZQ==",
-      "sha256": "2750e1744adf56104c1ae1d3882da4fc43e1dbb3a00b20e725fff984197706a5"
+      "sha256": "a72906e68c28ff86cb4434a3e72396eae3db6b72a9653953d73a431f45bdb086"
     },
     {
       "asset": "helper.exe",
